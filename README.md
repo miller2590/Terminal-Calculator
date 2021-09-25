@@ -4,12 +4,10 @@ It's all in the name. An application I made while waiting for an airplane.
 ## Install
 
 Once you have clonded the repo:
-1 cd Terminal-Claculator/
-2 python3 app.py
+#1 cd Terminal-Claculator/
+#2 python3 app.py
 
-
-### License
-# Released under MIT License
+### Released under MIT License
 
 Copyright (c) 2021 Gage Miller.
 
